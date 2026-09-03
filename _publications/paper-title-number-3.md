@@ -1,5 +1,6 @@
 ---
 title: "CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting."
+order: 2
 collection: publications
 category: conferences
 permalink: /publication/paper-title-number-4
