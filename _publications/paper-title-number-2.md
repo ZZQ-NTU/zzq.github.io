@@ -1,5 +1,6 @@
 ---
 title: "UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning Generalized Urban Representation."
+order: 1
 collection: publications
 category: manuscript
 permalink: /publication/paper-title-number-2
