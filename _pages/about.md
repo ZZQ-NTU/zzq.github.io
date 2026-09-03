@@ -25,3 +25,15 @@ I have also worked on large-scale data mining and advertising optimization probl
 - **2026:** Our work on causal modeling for cold-start POI forecasting was accepted by **SIGKDD 2026**.
 - **2026:** Our work on multiscale urban foundation models was accepted by **IEEE TKDE**.
 - **2026:** Our work on guaranteed display advertising was accepted by **SIGIR 2026**.
+
+## Selected Publications
+
+{% include base_path %}
+
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+
+{% for post in sorted_publications limit:5 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+[See all publications]({{ base_path }}/publications/)
