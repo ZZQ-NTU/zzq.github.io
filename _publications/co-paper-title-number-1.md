@@ -1,5 +1,6 @@
 ---
 title: "Generative Large-Scale Pre-trained Models for Automated Ad Bidding Optimization."
+order: 6
 collection: publications
 category: conferences
 permalink: /publication/co-paper-title-number-1
