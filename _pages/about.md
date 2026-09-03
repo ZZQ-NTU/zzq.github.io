@@ -30,7 +30,7 @@ I have also worked on large-scale data mining and advertising optimization probl
 
 {% include base_path %}
 
-{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+{% assign sorted_publications = site.publications | sort: "order" %}
 
 {% for post in sorted_publications limit:5 %}
   {% include archive-single.html %}
