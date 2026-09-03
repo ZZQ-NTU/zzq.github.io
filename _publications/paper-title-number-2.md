@@ -3,8 +3,8 @@ title: "UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning 
 collection: publications
 category: manuscript
 permalink: /publication/paper-title-number-2
-excerpt: 'Zhaoqi Zhang, Miao Xie, Pasquale Balsebre, Weiming Huang, Siqiang Luo, Gao Cong.'
+excerpt: '<strong>Zhaoqi Zhang</strong>, Miao Xie, Pasquale Balsebre, Weiming Huang, Siqiang Luo, Gao Cong.'
 date: 2026-01-20
-venue: 'TKDE 2026'
+venue: 'TKDE'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11359527'
 ---
