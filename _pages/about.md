@@ -13,7 +13,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
 
 ## Selected Publications
-*(* * = corresponding author *)*
+**(* = corresponding author)**
 
 {% include base_path %}
 
