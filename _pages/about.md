@@ -26,7 +26,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 [See all publications on Google Scholar]({{ site.author.googlescholar }})
 
 
-## Professional Service
+## Services
 
 ### Conference Reviewer
 
