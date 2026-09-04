@@ -32,9 +32,14 @@
 
       <!-- Publication title + Paper link -->
       <p class="publication-title">
-        <strong>{{ title }}</strong>
         {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank" rel="noopener">[Paper]</a>
+          <strong>
+            <a href="{{ post.paperurl }}" target="_blank" rel="noopener">
+              {{ title }}
+            </a>
+          </strong>
+        {% else %}
+          <strong>{{ title }}</strong>
         {% endif %}
       </p>
 
