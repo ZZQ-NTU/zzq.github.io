@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at Nanyang Technological University (NTU), Singapore, supervised by Prof. Gao Cong and Prof. Siqiang Luo.
+I am a PhD candidate in the College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU), Singapore, supervised by Prof. Gao Cong and Prof. Siqiang Luo. Prior to joining NTU, I received my Bachelor's degree in Software Engineering from Dalian University of Technology.
 
 My research interests lie broadly in **urban computing, spatiotemporal data mining, graph learning, multimodal representation learning, and causal inference**. My research aims to develop data-driven and causal learning methods for understanding and modeling complex urban systems.
 
@@ -20,12 +20,6 @@ My PhD research focuses on three interconnected directions:
 I have also worked on large-scale data mining and advertising optimization problems in collaboration with industry.
 
 
-## News
-
-- **2026:** Our work on causal modeling for cold-start POI forecasting was accepted by **SIGKDD 2026**.
-- **2026:** Our work on multiscale urban foundation models was accepted by **IEEE TKDE**.
-- **2026:** Our work on guaranteed display advertising was accepted by **SIGIR 2026**.
-
 ## Selected Publications
 
 {% include base_path %}
@@ -36,7 +30,7 @@ I have also worked on large-scale data mining and advertising optimization probl
   {% include archive-single.html %}
 {% endfor %}
 
-[See all publications]({{ base_path }}/publications/)
+[See all publications on Google Scholar]({{ site.author.googlescholar }})
 
 
 ## Professional Service
