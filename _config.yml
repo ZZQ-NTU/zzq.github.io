@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 
-title                    : "Zhaoqi Zhang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoqi Zhang"
 description              : &description "Zhaoqi Zhang's academic homepage. Research on urban computing, spatiotemporal data mining, graph learning, multimodal foundation models, and causal inference."
